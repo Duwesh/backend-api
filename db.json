@@ -1,16 +1,60 @@
 {
-  "posts":[
+  "countries": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "Butan",
+      "id": 2
+    },
+    {
+      "country": "Nepal",
+      "id": 3
+    },
+    {
+      "country": "US",
+      "id": 4
+    },
+    {
+      "country": "Australia",
+      "id": 5
+    },
+    {
+      "country": "China",
+      "id": 6
     }
   ],
-  "comments" : [
+  "cities": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "country": "India",
+      "city": "Pune",
+      "population": "3000000",
+      "id": 3
+    },
+    {
+      "country": "India",
+      "city": "Mumbai",
+      "population": "89898989",
+      "id": 5
+    },
+    {
+      "country": "India",
+      "city": "Guwahati",
+      "population": "6",
+      "id": 6
+    },
+    {
+      "country": "England",
+      "city": "Bhilai",
+      "population": "3456",
+      "id": 7
+    },
+    {
+      "country": "England",
+      "city": "Bramingham",
+      "population": "87654",
+      "id": 8
     }
   ]
 }
