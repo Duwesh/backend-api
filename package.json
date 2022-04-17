@@ -10,7 +10,7 @@
   "keywords": [
     "json-server,heroku, node, REST API"
   ],
-  "author": "Jesper Orb",
+  "author": "Duwesh Kumar",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
